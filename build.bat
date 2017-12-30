@@ -1,0 +1,1 @@
+ajl main.ajl && g++ main.cpp && a.exe
