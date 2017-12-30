@@ -1,0 +1,3 @@
+import string, vector
+int main =>
+	printf("Printf test")
